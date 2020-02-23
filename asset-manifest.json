@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/random-name-game-react/static/css/main.84501f83.chunk.css",
+    "main.js": "/random-name-game-react/static/js/main.13436189.chunk.js",
+    "main.js.map": "/random-name-game-react/static/js/main.13436189.chunk.js.map",
+    "runtime-main.js": "/random-name-game-react/static/js/runtime-main.fa499408.js",
+    "runtime-main.js.map": "/random-name-game-react/static/js/runtime-main.fa499408.js.map",
+    "static/css/2.c68d7c85.chunk.css": "/random-name-game-react/static/css/2.c68d7c85.chunk.css",
+    "static/js/2.38e702d5.chunk.js": "/random-name-game-react/static/js/2.38e702d5.chunk.js",
+    "static/js/2.38e702d5.chunk.js.map": "/random-name-game-react/static/js/2.38e702d5.chunk.js.map",
+    "index.html": "/random-name-game-react/index.html",
+    "precache-manifest.09d94252a40ae58373f86b219f231ca9.js": "/random-name-game-react/precache-manifest.09d94252a40ae58373f86b219f231ca9.js",
+    "service-worker.js": "/random-name-game-react/service-worker.js",
+    "static/css/2.c68d7c85.chunk.css.map": "/random-name-game-react/static/css/2.c68d7c85.chunk.css.map",
+    "static/css/main.84501f83.chunk.css.map": "/random-name-game-react/static/css/main.84501f83.chunk.css.map",
+    "static/js/2.38e702d5.chunk.js.LICENSE.txt": "/random-name-game-react/static/js/2.38e702d5.chunk.js.LICENSE.txt",
+    "static/media/bootstrap.min.css": "/random-name-game-react/static/media/glyphicons-halflings-regular.fa277232.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fa499408.js",
+    "static/css/2.c68d7c85.chunk.css",
+    "static/js/2.38e702d5.chunk.js",
+    "static/css/main.84501f83.chunk.css",
+    "static/js/main.13436189.chunk.js"
+  ]
+}
